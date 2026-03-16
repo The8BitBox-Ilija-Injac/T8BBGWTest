@@ -1,0 +1,86 @@
+Reading c=0-39:h=0:step=2 revs=1.1
+Format commodore.1541
+T0.0: Commodore GCR (21/21 sectors) from Raw Flux (28367 flux in 183.37ms)
+T1.0: Commodore GCR (21/21 sectors) from Raw Flux (30149 flux in 183.37ms)
+T2.0: Commodore GCR (21/21 sectors) from Raw Flux (37145 flux in 183.37ms)
+T3.0: Commodore GCR (21/21 sectors) from Raw Flux (37492 flux in 183.37ms)
+T4.0: Commodore GCR (21/21 sectors) from Raw Flux (36155 flux in 183.37ms)
+T5.0: Commodore GCR (21/21 sectors) from Raw Flux (36196 flux in 183.37ms)
+T6.0: Commodore GCR (21/21 sectors) from Raw Flux (38209 flux in 183.37ms)
+T7.0: Commodore GCR (21/21 sectors) from Raw Flux (36741 flux in 183.37ms)
+T8.0: Commodore GCR (21/21 sectors) from Raw Flux (37741 flux in 183.37ms)
+T9.0: Commodore GCR (21/21 sectors) from Raw Flux (37835 flux in 183.37ms)
+T10.0: Commodore GCR (21/21 sectors) from Raw Flux (38147 flux in 183.37ms)
+T11.0: Commodore GCR (21/21 sectors) from Raw Flux (38572 flux in 183.37ms)
+T12.0: Commodore GCR (21/21 sectors) from Raw Flux (37535 flux in 183.36ms)
+T13.0: Commodore GCR (21/21 sectors) from Raw Flux (38170 flux in 183.37ms)
+T14.0: Commodore GCR (21/21 sectors) from Raw Flux (37623 flux in 183.37ms)
+T15.0: Commodore GCR (21/21 sectors) from Raw Flux (38251 flux in 183.37ms)
+T16.0: Commodore GCR (21/21 sectors) from Raw Flux (38282 flux in 183.37ms)
+T17.0: Commodore GCR (19/19 sectors) from Raw Flux (27840 flux in 183.37ms)
+T18.0: Commodore GCR (19/19 sectors) from Raw Flux (36100 flux in 183.37ms)
+T19.0: Commodore GCR (19/19 sectors) from Raw Flux (35395 flux in 183.37ms)
+T20.0: Commodore GCR (19/19 sectors) from Raw Flux (35522 flux in 183.37ms)
+T21.0: Commodore GCR (19/19 sectors) from Raw Flux (36624 flux in 183.37ms)
+T22.0: Commodore GCR (19/19 sectors) from Raw Flux (34643 flux in 183.37ms)
+T23.0: Commodore GCR (19/19 sectors) from Raw Flux (35521 flux in 183.37ms)
+T24.0: Commodore GCR (18/18 sectors) from Raw Flux (25010 flux in 183.37ms)
+T25.0: Commodore GCR (18/18 sectors) from Raw Flux (24563 flux in 183.36ms)
+T26.0: Commodore GCR (18/18 sectors) from Raw Flux (24611 flux in 183.37ms)
+T27.0: Commodore GCR (18/18 sectors) from Raw Flux (31552 flux in 183.37ms)
+T28.0: Commodore GCR (18/18 sectors) from Raw Flux (34167 flux in 183.37ms)
+T29.0: Commodore GCR (18/18 sectors) from Raw Flux (33315 flux in 183.37ms)
+T30.0: Commodore GCR (17/17 sectors) from Raw Flux (27992 flux in 183.37ms)
+T31.0: Commodore GCR (17/17 sectors) from Raw Flux (30068 flux in 183.37ms)
+T32.0: Commodore GCR (17/17 sectors) from Raw Flux (31222 flux in 183.37ms)
+T33.0: Commodore GCR (17/17 sectors) from Raw Flux (31048 flux in 183.37ms)
+T34.0: Commodore GCR (17/17 sectors) from Raw Flux (31720 flux in 183.37ms)
+T35.0: Commodore GCR (0/17 sectors) from Raw Flux (75875 flux in 183.37ms)
+T35.0: Commodore GCR (0/17 sectors) from Raw Flux (313384 flux in 756.68ms) (Retry #1.1)
+T35.0: Commodore GCR (0/17 sectors) from Raw Flux (562722 flux in 1357.82ms) (Retry #1.2)
+T35.0: Commodore GCR (0/17 sectors) from Raw Flux (809770 flux in 1952.90ms) (Retry #1.3)
+T35.0: Giving up: 17 sectors missing
+T36.0: Commodore GCR (0/17 sectors) from Raw Flux (75628 flux in 183.37ms)
+T36.0: Commodore GCR (0/17 sectors) from Raw Flux (289539 flux in 701.06ms) (Retry #1.1)
+T36.0: Commodore GCR (0/17 sectors) from Raw Flux (540016 flux in 1307.38ms) (Retry #1.2)
+T36.0: Commodore GCR (0/17 sectors) from Raw Flux (784580 flux in 1899.52ms) (Retry #1.3)
+T36.0: Giving up: 17 sectors missing
+T37.0: Commodore GCR (0/17 sectors) from Raw Flux (75409 flux in 183.37ms)
+T37.0: Commodore GCR (0/17 sectors) from Raw Flux (288266 flux in 700.43ms) (Retry #1.1)
+T37.0: Commodore GCR (0/17 sectors) from Raw Flux (539287 flux in 1310.76ms) (Retry #1.2)
+T37.0: Commodore GCR (0/17 sectors) from Raw Flux (784915 flux in 1907.62ms) (Retry #1.3)
+T37.0: Giving up: 17 sectors missing
+T38.0: Commodore GCR (0/17 sectors) from Raw Flux (75153 flux in 183.37ms)
+T38.0: Commodore GCR (0/17 sectors) from Raw Flux (286980 flux in 699.41ms) (Retry #1.1)
+T38.0: Commodore GCR (0/17 sectors) from Raw Flux (538198 flux in 1311.47ms) (Retry #1.2)
+T38.0: Commodore GCR (0/17 sectors) from Raw Flux (780417 flux in 1900.50ms) (Retry #1.3)
+T38.0: Giving up: 17 sectors missing
+T39.0: Commodore GCR (0/17 sectors) from Raw Flux (74900 flux in 183.37ms)
+T39.0: Commodore GCR (0/17 sectors) from Raw Flux (288464 flux in 705.81ms) (Retry #1.1)
+T39.0: Commodore GCR (0/17 sectors) from Raw Flux (536800 flux in 1314.24ms) (Retry #1.2)
+T39.0: Commodore GCR (0/17 sectors) from Raw Flux (779122 flux in 1907.31ms) (Retry #1.3)
+T39.0: Giving up: 17 sectors missing
+Cyl-> 0         1         2         3         
+H. S: 0123456789012345678901234567890123456789
+0. 0: ...................................XXXXX
+0. 1: ...................................XXXXX
+0. 2: ...................................XXXXX
+0. 3: ...................................XXXXX
+0. 4: ...................................XXXXX
+0. 5: ...................................XXXXX
+0. 6: ...................................XXXXX
+0. 7: ...................................XXXXX
+0. 8: ...................................XXXXX
+0. 9: ...................................XXXXX
+0.10: ...................................XXXXX
+0.11: ...................................XXXXX
+0.12: ...................................XXXXX
+0.13: ...................................XXXXX
+0.14: ...................................XXXXX
+0.15: ...................................XXXXX
+0.16: ...................................XXXXX
+0.17: ..............................          
+0.18: ........................                
+0.19: .................                       
+0.20: .................                       
+Found 683 sectors of 768 (88%)
