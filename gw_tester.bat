@@ -39,7 +39,7 @@ for /f "usebackq tokens=1,2 delims=:" %%a in ("output.txt") do (
         START /B /WAIT cmd /c "gw read --format=commodore.1541 --tracks=c=0-39:h=0:step=2 test.d64 "  > C64read.txt 2>&1
         echo TEST 1 - ENDE >> testprotokoll.txt
         echo SCHREIBE C64 DISK - TEST 2 >> testprotokoll.txt
-        START /B /WAIT cmd /c "gw read --format=commodore.1541 --tracks=c=0-39:h=0:step=2 test.d64"  > C64Write.txt 2>&1
+        START /B /WAIT cmd /c "gw write --format=commodore.1541 --tracks=c=0-39:h=0:step=2 test.d64"  > C64Write.txt 2>&1
         echo TEST 2 - ENDE >> testprotokoll.txt
 
     )
