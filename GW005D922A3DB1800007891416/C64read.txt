@@ -1,0 +1,3 @@
+Reading c=0-39:h=0:step=2 revs=1.1
+Format commodore.1541
+Command Failed: GetFluxStatus: No Index

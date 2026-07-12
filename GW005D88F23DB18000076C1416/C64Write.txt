@@ -1,0 +1,14 @@
+Writing c=0-39:h=0:step=2
+Format commodore.1541
+T0.0: Writing Track (Flux: 200.0ms period, 220.0 ms total, Terminate at index)
+T1.0: Writing Track (Flux: 200.0ms period, 220.0 ms total, Terminate at index)
+T2.0: Writing Track (Flux: 200.0ms period, 220.0 ms total, Terminate at index)
+T3.0: Writing Track (Flux: 200.0ms period, 220.0 ms total, Terminate at index)
+T3.0: Writing Track (Verify Failure: Retry #1)
+T4.0: Writing Track (Flux: 200.0ms period, 220.0 ms total, Terminate at index)
+T5.0: Writing Track (Flux: 200.0ms period, 220.0 ms total, Terminate at index)
+T5.0: Writing Track (Verify Failure: Retry #1)
+T5.0: Writing Track (Verify Failure: Retry #2)
+T5.0: Writing Track (Verify Failure: Retry #3)
+** FATAL ERROR:
+Failed to verify Track 5.0
