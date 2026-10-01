@@ -1,8 +1,8 @@
 Host Tools: 1.16.2
 Device:
-  Port:     COM30
+  Port:     COM31
   Model:    Greaseweazle V4.1
   MCU:      AT32F403A, 216MHz, 224kB SRAM
   Firmware: 1.6
-  Serial:   GW005D88F13DB1800007BC9416
+  Serial:   GW005D88F23DB1800007019416
   USB:      Full Speed (12 Mbit/s), 128kB Buffer
